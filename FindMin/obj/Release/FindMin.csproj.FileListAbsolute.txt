@@ -1,0 +1,9 @@
+E:\GitHub\FindMin\FindMin\bin\Release\FindMin.exe.config
+E:\GitHub\FindMin\FindMin\bin\Release\FindMin.exe
+E:\GitHub\FindMin\FindMin\bin\Release\FindMin.pdb
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.MainForm.resources
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.Properties.Resources.resources
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.csproj.GenerateResource.Cache
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.exe
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.pdb
+E:\GitHub\FindMin\FindMin\obj\Release\FindMin.csprojResolveAssemblyReference.cache

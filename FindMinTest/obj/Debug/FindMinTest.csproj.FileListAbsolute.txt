@@ -1,0 +1,7 @@
+E:\GitHub\FindMin\FindMinTest\bin\Debug\FindMinTest.dll
+E:\GitHub\FindMin\FindMinTest\bin\Debug\FindMinTest.pdb
+E:\GitHub\FindMin\FindMinTest\bin\Debug\FindMin.exe
+E:\GitHub\FindMin\FindMinTest\bin\Debug\FindMin.pdb
+E:\GitHub\FindMin\FindMinTest\obj\Debug\FindMinTest.csprojResolveAssemblyReference.cache
+E:\GitHub\FindMin\FindMinTest\obj\Debug\FindMinTest.dll
+E:\GitHub\FindMin\FindMinTest\obj\Debug\FindMinTest.pdb
